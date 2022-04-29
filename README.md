@@ -1,14 +1,14 @@
 # **STAR TRIANGLE**
 
-# Information
+## INFORMATION
 
 * **In this program, the crystal shape is displayed with the star symbol.**
 
-# Technologies Used
+## TECHNOLOGIES USED
 
 * **JAVA**
 
-# Contents
+## CONTENTS
 
 * The variables **n**, **i**, **k** and **j** are defined with int.
 
@@ -16,9 +16,7 @@
 
 * Formulas were used to get the crystalline shape in the for loop.
 
-<br />
-
-# Codes
+## CODES
 
 ```Java
 
@@ -106,13 +104,13 @@ Enter The Number : 10
 
 <br />
 
-# LINK
+## LINK
 
 * Click here https://github.com/Fogo9/StarTriangle.git to access the Github page for this project.
 
 <br />
 
-# LICENSE
+## LICENSE
 
 * This software is licensed By Tuncay Demir under the MIT license.
 
